@@ -13,6 +13,10 @@ enter any yt link  ```samplelink https://www.youtube.com/watch?v=rQT3kytoUrg```
 
 enjoy :)
 
+# P.S.
+Названия моделей отсечения вокала которые скачиваются автоматом тут ```model_name_mapper.json```
+Пока заменяются модели только в коде
+
 # Real Autors 
 Anjok07 /ultimatevocalremovergui
 https://github.com/Anjok07/ultimatevocalremovergui
