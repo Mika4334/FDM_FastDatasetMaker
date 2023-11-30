@@ -3,12 +3,15 @@ Remove vocals from YouTube video
 I'm noob at this
 
 # Info
-create venv '''python -m venv''' 
-install some reqs '''pip install requirements.txt'''
-open FastDatasetMaker.py
-enter yt link https://www.youtube.com/watch?v=rQT3kytoUrg
+create venv ```python -m venv```
 
-enjoy
+install some reqs ```pip install requirements.txt```
+
+open ```FastDatasetMaker.py```
+
+enter any yt link  ```samplelink https://www.youtube.com/watch?v=rQT3kytoUrg```
+
+enjoy :)
 
 # Real Autors 
 Anjok07 /ultimatevocalremovergui
