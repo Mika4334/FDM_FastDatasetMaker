@@ -9,7 +9,7 @@ install some reqs ```pip install requirements.txt```
 
 open ```FastDatasetMaker.py```
 
-enter any yt link  ```samplelink https://www.youtube.com/watch?v=rQT3kytoUrg```
+enter any yt link FOR EXAMPLE: ```https://www.youtube.com/watch?v=rQT3kytoUrg```
 
 enjoy :)
 
