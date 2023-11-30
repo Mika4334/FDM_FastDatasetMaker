@@ -1,0 +1,17 @@
+create
+python -m venv venv
+
+activate
+.\venv\Scripts\activate
+
+deactivate
+deactivate
+
+open RVC folder
+cd RVC1006Nvidia
+
+Open RVC1006Nvidia
+python infer-web.py
+
+file_path
+C:\Users\Example\Documents\PythonProjects\Test\out.wav
