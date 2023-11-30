@@ -5,6 +5,9 @@ I'm noob at this
 # Info
 create venv ```python -m venv venv```
 
+activate
+ ```.\venv\Scripts\activate```
+
 install some reqs ```pip install requirements.txt```
 
 open ```FastDatasetMaker.py```
