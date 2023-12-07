@@ -8,7 +8,7 @@ create venv ```python -m venv venv```
 activate
  ```.\venv\Scripts\activate```
 
-install some reqs ```pip install requirements.txt```
+install some reqs ```pip install -r requirements.txt```
 
 open ```FastDatasetMaker.py```
 
