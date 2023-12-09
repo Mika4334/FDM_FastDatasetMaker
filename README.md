@@ -11,6 +11,13 @@ User **Terminal** for:
 check if repository in folder ```dir FDM_FastDatasetMaker```
 
 open foledr ```cd .\FDM_FastDatasetMaker\```
+
+after you have to install FFMPEG
+
+win>(type) system > system properties > environment variables > (click) PATH > edit > new > (type) ```C:\Program Files\ffmpeg\bin```
+
+VIDEO HOW TO CREATE ENVIRONMENT VARIABLE: https://www.editframe.com/guides/how-to-install-and-start-using-ffmpeg-in-under-10-minutes/Create_Environment_Variable.mp4
+
 ___
 **Inside** **_FDM_FastDatasetMaker_** folder:
 
@@ -27,6 +34,8 @@ check if venv is activated
 install some reqs ```pip install -r requirements.txt```  wait until all runnning setup.py **done** and everything **Successfully installed**
 
 after install torch ```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
+
+
 
 open ```py .\FastDatasetMaker.py```
 
