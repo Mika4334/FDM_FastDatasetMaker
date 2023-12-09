@@ -4,9 +4,15 @@ I'm noob at this
 
 # How to install
 
-Ffirst of all you have to install FFMPEG
+First of all you have to install FFMPEG:
 
 win>(type) system > system properties > environment variables > (click) PATH > edit > new > (type) ```C:\Program Files\ffmpeg\bin```
+
+Download here 
+https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip 
+or check some .zip here 
+https://ffmpeg.org/download.html
+
 
 VIDEO HOW TO CREATE ENVIRONMENT VARIABLE: 
 
