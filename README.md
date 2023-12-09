@@ -48,7 +48,7 @@ install some reqs ```pip install -r requirements.txt```  wait until all runnning
 
 after install torch ```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
 
-DONE!
+**_Done!_**
 
 # Run
 open ```py .\FastDatasetMaker.py```
@@ -62,13 +62,13 @@ enter any yt link FOR EXAMPLE:
 
 enjoy :)
 
+audio files will be saved in ```cutted`` folder, also ```.json``` have time and text of the video
+
 # P.S.
 Name of the models that will download automatically here ```model_name_mapper.json```
 or download it from here 
 
-TRvlvr/model_repo
-
-https://github.com/TRvlvr/model_repo/releases/
+TRvlvr/model_repo https://github.com/TRvlvr/model_repo/releases/
 
 ```[ ]``` Maybe soon you will be able to use another models
 
