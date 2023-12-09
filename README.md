@@ -13,7 +13,7 @@ install some reqs ```pip install -r requirements.txt```
 open ```py FastDatasetMaker.py```
 
 enter any yt link FOR EXAMPLE:
-[eng]
+\n [eng]
  ```https://www.youtube.com/watch?v=M7FIvfx5J10```
 [rus]
  ```https://www.youtube.com/watch?v=RL7wMoH6cvA```
