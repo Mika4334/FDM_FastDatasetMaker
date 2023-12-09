@@ -19,6 +19,7 @@ after that create environment variable
 
 ```C:\Program Files\ffmpeg\bin```
 
+
 ![image](https://github.com/Mika4334/FDM_FastDatasetMaker/assets/44061554/665c0b1a-9a9c-46f4-b372-b1c9a095bd56)
 
 IF STRUGGLE CHECK VIDEO HOW TO CREATE ENVIRONMENT VARIABLE: 
