@@ -14,7 +14,7 @@ https://ffmpeg.org/download.html
 
 unzip in ```C:\Program Files\``` and rename folder as **_ffmpeg_** ```C:\Program Files\ffmpeg```
 
-after that create environment variable
+_after that create environment variable_
 
 win > (type) system > system properties > environment variables > (click) PATH > edit > new > (type) ```C:\Program Files\ffmpeg\bin```
 
