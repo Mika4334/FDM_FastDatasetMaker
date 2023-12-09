@@ -2,7 +2,18 @@
 Remove vocals from YouTube video
 I'm noob at this
 
-# Info
+# How to install
+
+download repository or ```git clone https://github.com/Mika4334/FDM_FastDatasetMaker.git```
+
+User **Terminal** for:
+
+check if repository in folder ```dir FDM_FastDatasetMaker```
+
+open foledr ```cd FDM_FastDatasetMaker```
+___
+**Inside** **_FDM_FastDatasetMaker_** folder:
+
 create venv ```python -m venv venv```
 
 activate
