@@ -1,0 +1,10 @@
+create
+python -m venv venv
+
+activate
+.\venv\Scripts\activate
+
+deactivate
+deactivate
+
+pipenv uninstall --all
