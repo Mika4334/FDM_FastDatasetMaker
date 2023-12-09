@@ -4,6 +4,14 @@ I'm noob at this
 
 # How to install
 
+Ffirst of all you have to install FFMPEG
+
+win>(type) system > system properties > environment variables > (click) PATH > edit > new > (type) ```C:\Program Files\ffmpeg\bin```
+
+VIDEO HOW TO CREATE ENVIRONMENT VARIABLE: 
+
+https://www.editframe.com/guides/how-to-install-and-start-using-ffmpeg-in-under-10-minutes/Create_Environment_Variable.mp4
+___
 download repository or ```git clone https://github.com/Mika4334/FDM_FastDatasetMaker.git```
 
 User **Terminal** for:
@@ -11,13 +19,6 @@ User **Terminal** for:
 check if repository in folder ```dir FDM_FastDatasetMaker```
 
 open foledr ```cd .\FDM_FastDatasetMaker\```
-
-after you have to install FFMPEG
-
-win>(type) system > system properties > environment variables > (click) PATH > edit > new > (type) ```C:\Program Files\ffmpeg\bin```
-
-VIDEO HOW TO CREATE ENVIRONMENT VARIABLE: https://www.editframe.com/guides/how-to-install-and-start-using-ffmpeg-in-under-10-minutes/Create_Environment_Variable.mp4
-
 ___
 **Inside** **_FDM_FastDatasetMaker_** folder:
 
