@@ -6,15 +6,21 @@ I'm noob at this
 
 First of all you have to install FFMPEG:
 
-win>(type) system > system properties > environment variables > (click) PATH > edit > new > (type) ```C:\Program Files\ffmpeg\bin```
-
 Download here 
 https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip 
-or check some .zip here 
+
+or check some .zip here
 https://ffmpeg.org/download.html
 
+unzip in ```C:\Program Files\``` and rename folder as _ffmpeg_ ```C:\Program Files\ffmpeg```
 
-VIDEO HOW TO CREATE ENVIRONMENT VARIABLE: 
+after that create environment variable
+
+win > (type) system > system properties > environment variables > (click) PATH > edit > new > (type) ```C:\Program Files\ffmpeg\bin```
+
+![image](https://github.com/Mika4334/FDM_FastDatasetMaker/assets/44061554/665c0b1a-9a9c-46f4-b372-b1c9a095bd56)
+
+IF STRUGGLE CHECK VIDEO HOW TO CREATE ENVIRONMENT VARIABLE: 
 
 https://www.editframe.com/guides/how-to-install-and-start-using-ffmpeg-in-under-10-minutes/Create_Environment_Variable.mp4
 ___
