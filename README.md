@@ -26,6 +26,8 @@ check if venv is activated
 
 install some reqs ```pip install -r requirements.txt```  wait until all runnning setup.py **done** and everything **Successfully installed**
 
+after install torch ```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
+
 open ```py FastDatasetMaker.py```
 
 enter any yt link FOR EXAMPLE: 
