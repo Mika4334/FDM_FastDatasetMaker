@@ -21,7 +21,6 @@ win > (type) system > system properties > environment variables > (click) PATH >
 ![image](https://github.com/Mika4334/FDM_FastDatasetMaker/assets/44061554/665c0b1a-9a9c-46f4-b372-b1c9a095bd56)
 
 IF STRUGGLE CHECK VIDEO HOW TO CREATE ENVIRONMENT VARIABLE: 
-
 https://www.editframe.com/guides/how-to-install-and-start-using-ffmpeg-in-under-10-minutes/Create_Environment_Variable.mp4
 ___
 download repository or ```git clone https://github.com/Mika4334/FDM_FastDatasetMaker.git```
