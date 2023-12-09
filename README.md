@@ -23,7 +23,7 @@ after that create environment variable
 IF STRUGGLE CHECK VIDEO HOW TO CREATE ENVIRONMENT VARIABLE: 
 https://www.editframe.com/guides/how-to-install-and-start-using-ffmpeg-in-under-10-minutes/Create_Environment_Variable.mp4
 ___
-download repository or ```git clone https://github.com/Mika4334/FDM_FastDatasetMaker.git```
+download **FDM_FastDatasetMaker** repository or ```git clone https://github.com/Mika4334/FDM_FastDatasetMaker.git```
 
 User **Terminal** for:
 
