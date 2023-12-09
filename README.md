@@ -19,6 +19,9 @@ create venv ```python -m venv venv```
 activate
  ```.\venv\Scripts\activate```
 
+check if venv is activated
+![image](https://github.com/Mika4334/FDM_FastDatasetMaker/assets/44061554/1629db92-fee9-41cc-b928-d3b520f048a9)
+
 upgrade pip ```pip install --upgrade pip```
 
 install some reqs ```pip install -r requirements.txt```
