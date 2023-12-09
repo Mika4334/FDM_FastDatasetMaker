@@ -66,9 +66,7 @@ audio files will be saved in ```cutted`` folder, also ```.json``` have time and 
 
 # P.S.
 Name of the models that will download automatically here ```model_name_mapper.json```
-or download it from here 
-
-TRvlvr/model_repo https://github.com/TRvlvr/model_repo/releases/
+or download it from here https://github.com/TRvlvr/model_repo/releases/
 
 ```[ ]``` Maybe soon you will be able to use another models
 
