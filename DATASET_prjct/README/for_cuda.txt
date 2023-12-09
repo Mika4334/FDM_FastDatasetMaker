@@ -1,5 +1,0 @@
-последовательно прописать если не фурычит
-
-pip uninstall torch onnxruntime
-pip cache purge
-pip install torch "optimum[onnxruntime-gpu]"
