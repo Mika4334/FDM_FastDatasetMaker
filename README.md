@@ -10,7 +10,7 @@ activate
 
 install some reqs ```pip install -r requirements.txt```
 
-open ```FastDatasetMaker.py```
+open ```py FastDatasetMaker.py```
 
 enter any yt link FOR EXAMPLE:
 [eng]
