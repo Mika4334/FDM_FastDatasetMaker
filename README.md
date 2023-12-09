@@ -66,12 +66,14 @@ audio files will be saved in ```cutted`` folder, also ```.json``` have time and 
 
 # P.S.
 Name of the models that will download automatically here ```model_name_mapper.json```
-or download it from here https://github.com/TRvlvr/model_repo/releases/
+or download it from **Get models**
 
 ```[ ]``` Maybe soon you will be able to use another models
 
 ```[ ]``` Also going to release some features soon or you could suggest anythin
 
+# Get models
+https://github.com/TRvlvr/model_repo/releases/
 
 # Real Autors 
 Anjok07 /ultimatevocalremovergui
@@ -82,7 +84,3 @@ https://github.com/karaokenerds/python-audio-separator
 
 TRvlvr/model_repo
 https://github.com/TRvlvr/model_repo/releases/
-
-# Get models from here
-https://github.com/TRvlvr/model_repo/releases/
-
