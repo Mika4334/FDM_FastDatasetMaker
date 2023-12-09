@@ -3,7 +3,6 @@ Remove vocals from YouTube video
 I'm noob at this
 
 # How to install
-
 First of all you have to install FFMPEG:
 
 Download here 
@@ -50,8 +49,8 @@ install some reqs ```pip install -r requirements.txt```  wait until all runnning
 after install torch ```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
 
 DONE!
-___
 
+# Run
 open ```py .\FastDatasetMaker.py```
 
 enter any yt link FOR EXAMPLE: 
@@ -65,6 +64,11 @@ enjoy :)
 
 # P.S.
 Name of the models that will download automatically here ```model_name_mapper.json```
+or download it from here 
+
+TRvlvr/model_repo
+
+https://github.com/TRvlvr/model_repo/releases/
 
 ```[ ]``` Maybe soon you will be able to use another models
 
