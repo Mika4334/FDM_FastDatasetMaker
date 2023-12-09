@@ -24,7 +24,7 @@ check if venv is activated
 
 upgrade pip ```pip install --upgrade pip```
 
-install some reqs ```pip install -r requirements.txt```
+install some reqs ```pip install -r requirements.txt```  wait until all runnning setup.py **done** and everything **Successfully installed**
 
 open ```py FastDatasetMaker.py```
 
