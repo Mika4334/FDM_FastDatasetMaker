@@ -12,7 +12,7 @@ https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-lat
 or check some .zip here
 https://ffmpeg.org/download.html
 
-unzip in ```C:\Program Files\``` and rename folder as _ffmpeg_ ```C:\Program Files\ffmpeg```
+unzip in ```C:\Program Files\``` and rename folder as **_ffmpeg_** ```C:\Program Files\ffmpeg```
 
 after that create environment variable
 
