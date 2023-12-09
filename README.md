@@ -49,7 +49,8 @@ install some reqs ```pip install -r requirements.txt```  wait until all runnning
 
 after install torch ```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
 
-
+DONE!
+___
 
 open ```py .\FastDatasetMaker.py```
 
@@ -63,8 +64,12 @@ enter any yt link FOR EXAMPLE:
 enjoy :)
 
 # P.S.
-Названия моделей отсечения вокала которые скачиваются автоматом тут ```model_name_mapper.json```
-Пока заменяются модели только в коде
+Name of the models that will download automatically here ```model_name_mapper.json```
+
+```[ ]``` Maybe soon you will be able to use another models
+
+```[ ]``` Also going to release some features soon or you could suggest anythin
+
 
 # Real Autors 
 Anjok07 /ultimatevocalremovergui
