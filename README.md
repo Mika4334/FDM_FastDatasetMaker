@@ -10,7 +10,7 @@ User **Terminal** for:
 
 check if repository in folder ```dir FDM_FastDatasetMaker```
 
-open foledr ```cd FDM_FastDatasetMaker```
+open foledr ```cd .\FDM_FastDatasetMaker\```
 ___
 **Inside** **_FDM_FastDatasetMaker_** folder:
 
@@ -28,7 +28,7 @@ install some reqs ```pip install -r requirements.txt```  wait until all runnning
 
 after install torch ```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
 
-open ```py FastDatasetMaker.py```
+open ```py .\FastDatasetMaker.py```
 
 enter any yt link FOR EXAMPLE: 
 
