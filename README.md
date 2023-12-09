@@ -14,9 +14,9 @@ https://ffmpeg.org/download.html
 
 unzip in ```C:\Program Files\``` and rename folder as **_ffmpeg_** ```C:\Program Files\ffmpeg```
 
-_after that create environment variable_
+after that create environment variable
 
-win > (type) system > system properties > environment variables > (click) PATH > edit > new > (type) ```C:\Program Files\ffmpeg\bin```
+_win > (type) system > system properties > environment variables > (click) PATH > edit > new > (type)_ ```C:\Program Files\ffmpeg\bin```
 
 ![image](https://github.com/Mika4334/FDM_FastDatasetMaker/assets/44061554/665c0b1a-9a9c-46f4-b372-b1c9a095bd56)
 
