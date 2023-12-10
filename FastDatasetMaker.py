@@ -108,7 +108,7 @@ with open(transcript_filepath, 'r', encoding='utf-8') as json_file:
     transcript_data = json.load(json_file)
 
 # Обрезка аудио в соответствии с указанными метками начала нового текста в JSON файле
-duration_adjustment = 0.1 
+duration_adjustment = 0.08 
 # Длительность обрезки 
 for index, caption in enumerate(transcript_data): 
     start_time = float(caption['start']) 
