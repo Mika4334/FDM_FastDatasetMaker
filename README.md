@@ -72,6 +72,7 @@ Name of the models that will download automatically here ```model_name_mapper.js
 or download it from **Get models**
 
 **TODO**
+
 ```[ ]``` Maybe soon you will be able to use another models
 
 ```[ ]``` Also going to release some features soon or you could suggest anythin
