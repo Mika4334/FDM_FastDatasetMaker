@@ -71,6 +71,7 @@ audio files will be saved in ```cutted`` folder, also ```.json``` have time and 
 Name of the models that will download automatically here ```model_name_mapper.json```
 or download it from **Get models**
 
+**TODO**
 ```[ ]``` Maybe soon you will be able to use another models
 
 ```[ ]``` Also going to release some features soon or you could suggest anythin
