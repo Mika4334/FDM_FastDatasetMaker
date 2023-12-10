@@ -29,7 +29,7 @@ download **FDM_FastDatasetMaker** repository as .zip https://github.com/Mika4334
 
 or simply clone it ```git clone https://github.com/Mika4334/FDM_FastDatasetMaker.git```
 
-User **Terminal** for:
+Use **VSCode Terminal** for:
 
 check if repository in folder ```dir FDM_FastDatasetMaker```
 
