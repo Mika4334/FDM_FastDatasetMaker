@@ -4,7 +4,7 @@ Remove and separate Vocals through transcribed subtitles text from YouTube video
 do not expect much here cuz I'm noob at this, but it works pretty well
 
 # How to install
-First of all you have to install FFMPEG:
+First of all you have to install ```FFMPEG```:
 
 Download here 
 https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip 
