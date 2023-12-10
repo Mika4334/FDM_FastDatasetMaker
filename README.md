@@ -1,6 +1,7 @@
 # FastDatasetMaker (FDM)
-Remove vocals from YouTube video
-I'm noob at this
+Remove and separate Vocals through transcribed subtitles text from YouTube video (support for local video transcribe and  separation vocal through text coming soon)
+
+do not expect much here cuz I'm noob at this, but it works pretty well
 
 # How to install
 First of all you have to install FFMPEG:
