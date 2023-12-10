@@ -65,7 +65,7 @@ enter any yt link FOR EXAMPLE:
 
 enjoy :)
 
-audio files will be saved in ```cutted`` folder, also ```.json``` have time and text of the video
+audio files will be saved in ```cutted``` folder, also ```.json``` have time and text of the video
 
 # P.S.
 Name of the models that will download automatically here ```model_name_mapper.json```
